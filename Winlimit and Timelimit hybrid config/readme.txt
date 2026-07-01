@@ -4,7 +4,7 @@ Did not change MvM or its dependencies
 
 Casual Mode Symmetric maps raised from Best of 3 to Best of 9 combined with mp_timelimit 45
 
-Competitive Mode Symmetric maps raised from Best of 3 to Best of 9 combined with mp_timelimit 30 (Applies to both low-skill and high-skill matches)
+Competitive Mode Symmetric maps raised from Best of 3 to Best of 7 (Applies to both low-skill and high-skill matches)
 
 Casual Multi-Stage PLR, CTF and Mannpower changed from mp_maxrounds 1 to mp_timelimit 45
 
