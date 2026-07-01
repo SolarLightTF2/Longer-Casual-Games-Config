@@ -20,10 +20,6 @@ Left Casual Payload and A/D as is (file not included in this pack)
 
 Updated the note in server_casual_rounds_win_conditions.cfg to clarify that it applies to not only PLR, but also CTF
 
-Updated the note in server_competitive_max_rounds_win_conditions.cfg to clarify that it applies to not only PLR, but also CTF
-
-Updated the note in server_competitive_max_rounds_win_conditions_high_skill.cfg to clarify that it applies to not only PLR, but also CTF
-
 Updated the note in server_casual_rounds_win_conditions_custom.cfg to clarify that it applies to Graveyard
 
 Updated the note in server_custom.cfg to mention VSH and ZI as examples for more clarity
