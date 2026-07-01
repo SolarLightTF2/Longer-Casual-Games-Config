@@ -8,7 +8,7 @@ Left Competitive CTF as is
 
 Left Competitive Stopwatch as is
 
-Competitive Mode Symmetric maps raised from Best of 3 to Best of 9 combined with mp_timelimit 30 (Applies to both low-skill and high-skill matches)
+Competitive Mode Symmetric maps raised from Best of 3 to Best of 7 (Applies to both low-skill and high-skill matches)
 
 Updated the note in server_casual_rounds_win_conditions_custom.cfg to clarify that it applies to Graveyard
 
